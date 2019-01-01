@@ -1,0 +1,11 @@
+1-	"Collectin Mob Essence" quest in "Industrial Revolution" quest line completes if Resourceful Furnace is made without requiring a Mob Crusher to be made.
+2-	Clay dupe bug also works with compressed blocks of clay.
+3-	No point in doing the "Plant Interactor" quest in the "Industrial Revolution" questline since the plant gatherer works with agricraft crops anyway.
+4-	"Chemical Reactions" quest in "Reborn Technology" questline missing "Compression" quest as a requirement.
+5-	All "Portable Storage" quests in "Thermal Enhancements" questline complete at the same time, probably due to all the items haveing the same ID.
+6-	EnderIO machines accepting power faster from Mekanism universal cable than from EnderIO conduits.
+7-	Can't left click, shift left click, or shift right click anything out of or into the wireless crafting terminal, including pressing the "X" to clear the crafting grid. Also happens with creative wireless crafting terminal. (Fixed by updating Wireless Crafting Terminals to latest beta RV6 version (version after current))
+8-	"Nuclear Fusion" quest in "Reborn Technology" questline missing "You See Me Rollin'" quest as a requirement.
+9-	When the aluminum dust you get from electrolyzing crushed emeralds is smelted, you get the JAOPCA version of aluminium.
+10-	"Power From Plasma" quest in "Reborn Technology" questline missing "Tugnstensteel" quest as a requirement.
+11-	Pumping into and out of a molecular assembler as if trying to use it as a 1 recipe autocrafter crashes the game.(no crash after restarting client)
