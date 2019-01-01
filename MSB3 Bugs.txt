@@ -9,4 +9,4 @@
 9-	When the aluminum dust you get from electrolyzing crushed emeralds is smelted, you get the JAOPCA version of aluminium.
 10-	"Power From Plasma" quest in "Reborn Technology" questline missing "Tugnstensteel" quest as a requirement.
 11-	Pumping into and out of a molecular assembler as if trying to use it as a 1 recipe autocrafter crashes the game.(no crash after restarting client)
-12-  When a Algorithm Assimilator from Calculator mod fills up, it ejects some of its contents into the world, and voids the rest, and then all other algorithm assimilators stop producing an output. The issue is fixed by restarting the client, although if another algorithm assimilator fills up again the problem reappears.
+12-	When a Algorithm Assimilator from Calculator mod fills up, it ejects some of its contents into the world, and voids the rest, and then all other algorithm assimilators stop producing an output. The issue is fixed by restarting the client, although if another algorithm assimilator fills up again the problem reappears.
