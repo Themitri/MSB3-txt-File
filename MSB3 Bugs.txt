@@ -15,3 +15,4 @@
 
 
 14- The bugged health module acts as an infinite source of health points in a health processor after bug 13 occurs. It doesn't refill infinite health though.
+15- Watch of flowing time is enabled but doesn't appear in JEI and doesn't have a recipe when checked from the creative tabs, although when cheated in it works just fine. This applies to both staged mode and kitchensink mode. (Tested by me and another person playing in kitchensink).
