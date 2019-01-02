@@ -11,3 +11,7 @@
 11-	Pumping into and out of a molecular assembler as if trying to use it as a 1 recipe autocrafter crashes the game.(no crash after restarting client)
 12-	When an algorithm assimilator from Calculator fills up, it ejects some of its contents into the world, and voids the rest, and then all other algorithm assimilators stop producing an output. The issue is fixed by restarting the client, although if another algorithm assimilator fills up again the problem reappears.
 13-	Health module from Calculator will not fill up past 4 health points.
+
+
+
+14- The bugged health module acts as an infinite source of health points in a health processor after bug 13 occurs.
