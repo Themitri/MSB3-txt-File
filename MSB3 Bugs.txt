@@ -14,4 +14,4 @@
 
 
 
-14- The bugged health module acts as an infinite source of health points in a health processor after bug 13 occurs.
+14- The bugged health module acts as an infinite source of health points in a health processor after bug 13 occurs. It doesn't refill infinite health though.
